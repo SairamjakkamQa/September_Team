@@ -7,13 +7,11 @@ public class Water extends Road {
 		super();
 
 	}
-	
-	
+
 	public static void main(String[] args) {
-		
-		Water wt=new Water();
-		
+
+		Water wt = new Water();
+
 	}
-	
 
 }
